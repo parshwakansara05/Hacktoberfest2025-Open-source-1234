@@ -61,5 +61,13 @@
     "github_profile_url": "https://github.com/seobysoumik",
     "project_netlify_link": "https://soumik-profile-card.netlify.app/",
     "tags": ["animated", "light-theme"]
-  }
+  },
+  {
+  "name": "Parshwa",
+  "occupation": "Student",
+  "place": "Gujarat, India",
+  "github_profile_url": "[https://github.com/parshwakansara05](https://github.com/parshwakansara05)",
+  "tags": ["minimalist", "toggle-animation",]
+}
+
 ]
